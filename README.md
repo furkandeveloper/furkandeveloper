@@ -1,7 +1,19 @@
- <h1 align="center">Hi 👋, I'm Furkan Güngör</h1>
+<h1 align="center">Hi 👋, I'm Furkan Güngör</h1>
 <h3 align="center">I want to change the world, give me the source code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkandeveloper" alt="furkandeveloper" /> </p>
+
+- 🔭 Mobiroller App Maker [Mobiroller](https://mobiroller.com)
+
+- 🌱 I’m currently learning **dotnetcore,xamarin,flutter,angularJS**
+
+- 👨‍💻 All of my projects are available at [https://github.com/furkandeveloper?tab=repositories](https://github.com/furkandeveloper?tab=repositories)
+
+- 📝 I regulary write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
+
+- 💬 Ask me about **dotnet, dotnetcore, microservice arhitecture, cleant arhitecture, C#, gRPC, RabbitMQ and backend ecosystem**
+
+- 📫 How to reach me **furkan.dvlp@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
