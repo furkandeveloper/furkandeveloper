@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/furkandeveloper?tab=repositories](https://github.com/furkandeveloper?tab=repositories)
 
-- 📝 I regulary write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
+- 📝 I regulary write articles on [https://medium.com/@furkan.dvlp](https://medium.com/@furkan.dvlp)
 
 - 💬 Ask me about **dotnet, dotnetcore, microservice arhitecture, cleant arhitecture, C#, gRPC, RabbitMQ and backend ecosystem**
 
