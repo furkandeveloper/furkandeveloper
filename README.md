@@ -11,7 +11,7 @@
 
 - 📝 I regulary write articles on [https://medium.com/@furkan.dvlp](https://medium.com/@furkan.dvlp)
 
-- 💬 Ask me about **dotnet, dotnetcore, microservice arhitecture, cleant arhitecture, C#, gRPC, RabbitMQ and backend ecosystem**
+- 💬 Ask me about **dotnet, dotnetcore, microservice architecture, clean architecture, C#, gRPC, RabbitMQ and backend ecosystem**
 
 - 📫 How to reach me **furkan.dvlp@gmail.com**
 
