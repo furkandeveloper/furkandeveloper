@@ -11,4 +11,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "8"
-                feed_list: "https://medium.com/feed/@furkan.dvlp"
+                feed_list: "https://medium.com/feed/@furkan-dvlp"
