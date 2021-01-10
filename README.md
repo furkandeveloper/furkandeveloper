@@ -27,7 +27,10 @@
 - [EF Core 5 Preview 3 (#Benchmark and Performance Testing)](https://medium.com/devopsturkiye/ef-core-5-preview-3-benchmark-and-performance-testing-ebe9186aad0a?source=rss-b7df331a97d0------2)
 <!-- BLOG-POST-LIST:END -->
 
+### Recent Github Activity
 <!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furkandeveloper" alt="furkandeveloper" /></a> </p>
 
