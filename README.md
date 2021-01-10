@@ -27,9 +27,14 @@
 - [EF Core 5 Preview 3 (#Benchmark and Performance Testing)](https://medium.com/devopsturkiye/ef-core-5-preview-3-benchmark-and-performance-testing-ebe9186aad0a?source=rss-b7df331a97d0------2)
 <!-- BLOG-POST-LIST:END -->
 
-### Recent Github Activity
-<!--START_SECTION:activity-->
+### :zap: Recent Activity
 
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#2338](https://github.com/webpack/webpack-cli/pull/2338) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+2. 💪 Opened PR [#2335](https://github.com/webpack/webpack-cli/pull/2335) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+3. 🎉 Merged PR [#2327](https://github.com/webpack/webpack-cli/pull/2327) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+4. 💪 Opened PR [#2327](https://github.com/webpack/webpack-cli/pull/2327) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+5. 🎉 Merged PR [#2319](https://github.com/webpack/webpack-cli/pull/2319) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
 <!--END_SECTION:activity-->
 
 <hr/>
