@@ -35,6 +35,11 @@
 3. ❗️ Closed issue [#9](https://github.com/furkandeveloper/EasyCache/issues/9) in [furkandeveloper/EasyCache](https://github.com/furkandeveloper/EasyCache)
 4. 🎉 Merged PR [#10](https://github.com/furkandeveloper/EasyCache/pull/10) in [furkandeveloper/EasyCache](https://github.com/furkandeveloper/EasyCache)
 5. 💪 Opened PR [#10](https://github.com/furkandeveloper/EasyCache/pull/10) in [furkandeveloper/EasyCache](https://github.com/furkandeveloper/EasyCache)
+6.
+7.
+8.
+9.
+10.
 <!--END_SECTION:activity-->
 
 <hr/>
