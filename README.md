@@ -30,11 +30,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2338](https://github.com/webpack/webpack-cli/pull/2338) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-2. 💪 Opened PR [#2335](https://github.com/webpack/webpack-cli/pull/2335) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-3. 🎉 Merged PR [#2327](https://github.com/webpack/webpack-cli/pull/2327) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-4. 💪 Opened PR [#2327](https://github.com/webpack/webpack-cli/pull/2327) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-5. 🎉 Merged PR [#2319](https://github.com/webpack/webpack-cli/pull/2319) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+1. 🎉 Merged PR [#11](https://github.com/furkandeveloper/EasyCache/pull/11) in [furkandeveloper/EasyCache](https://github.com/furkandeveloper/EasyCache)
+2. 💪 Opened PR [#11](https://github.com/furkandeveloper/EasyCache/pull/11) in [furkandeveloper/EasyCache](https://github.com/furkandeveloper/EasyCache)
+3. ❗️ Closed issue [#9](https://github.com/furkandeveloper/EasyCache/issues/9) in [furkandeveloper/EasyCache](https://github.com/furkandeveloper/EasyCache)
+4. 🎉 Merged PR [#10](https://github.com/furkandeveloper/EasyCache/pull/10) in [furkandeveloper/EasyCache](https://github.com/furkandeveloper/EasyCache)
+5. 💪 Opened PR [#10](https://github.com/furkandeveloper/EasyCache/pull/10) in [furkandeveloper/EasyCache](https://github.com/furkandeveloper/EasyCache)
 <!--END_SECTION:activity-->
 
 <hr/>
