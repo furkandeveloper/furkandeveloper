@@ -30,16 +30,16 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#65](https://github.com/furkandeveloper/EasyProfiler/issues/65) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
-2. 🗣 Commented on [#292](https://github.com/jasontaylordev/CleanArchitecture/issues/292) in [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture)
-3. ❗️ Closed issue [#62](https://github.com/furkandeveloper/EasyProfiler/issues/62) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
-4. 🎉 Merged PR [#64](https://github.com/furkandeveloper/EasyProfiler/pull/64) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
-5. 💪 Opened PR [#64](https://github.com/furkandeveloper/EasyProfiler/pull/64) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
-6. 🗣 Commented on [#62](https://github.com/furkandeveloper/EasyProfiler/issues/62) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
-7. ❌ Closed PR [#63](https://github.com/furkandeveloper/EasyProfiler/pull/63) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
-8. 🎉 Merged PR [#11](https://github.com/furkandeveloper/EasyCache/pull/11) in [furkandeveloper/EasyCache](https://github.com/furkandeveloper/EasyCache)
-9. 💪 Opened PR [#11](https://github.com/furkandeveloper/EasyCache/pull/11) in [furkandeveloper/EasyCache](https://github.com/furkandeveloper/EasyCache)
-10. ❗️ Closed issue [#9](https://github.com/furkandeveloper/EasyCache/issues/9) in [furkandeveloper/EasyCache](https://github.com/furkandeveloper/EasyCache)
+1. ❗️ Opened issue [#66](https://github.com/furkandeveloper/EasyProfiler/issues/66) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
+2. ❗️ Opened issue [#65](https://github.com/furkandeveloper/EasyProfiler/issues/65) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
+3. 🗣 Commented on [#292](https://github.com/jasontaylordev/CleanArchitecture/issues/292) in [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture)
+4. ❗️ Closed issue [#62](https://github.com/furkandeveloper/EasyProfiler/issues/62) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
+5. 🎉 Merged PR [#64](https://github.com/furkandeveloper/EasyProfiler/pull/64) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
+6. 💪 Opened PR [#64](https://github.com/furkandeveloper/EasyProfiler/pull/64) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
+7. 🗣 Commented on [#62](https://github.com/furkandeveloper/EasyProfiler/issues/62) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
+8. ❌ Closed PR [#63](https://github.com/furkandeveloper/EasyProfiler/pull/63) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
+9. 🎉 Merged PR [#11](https://github.com/furkandeveloper/EasyCache/pull/11) in [furkandeveloper/EasyCache](https://github.com/furkandeveloper/EasyCache)
+10. 💪 Opened PR [#11](https://github.com/furkandeveloper/EasyCache/pull/11) in [furkandeveloper/EasyCache](https://github.com/furkandeveloper/EasyCache)
 <!--END_SECTION:activity-->
 
 <hr/>
