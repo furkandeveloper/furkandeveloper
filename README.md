@@ -17,6 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [.Net 6 ve Yenilikleri #1 (Preview 1 & Preview 2)](https://medium.com/devopsturkiye/net-6-ve-yenilikleri-1-preview-1-preview-2-6fd1b7667843?source=rss-b7df331a97d0------2)
 - [Teknik Muhabbetler #5 (Jwt-Authentication-Gerçek Senaryolar)](https://medium.com/mobiroller-tech/teknik-muhabbetler-5-jwt-authentication-ger%C3%A7ek-senaryolar-e987387d2197?source=rss-b7df331a97d0------2)
 - [.Net 5 ve Yenilikleri #2](https://medium.com/devopsturkiye/net-5-ve-yenilikleri-2-851b11e4b097?source=rss-b7df331a97d0------2)
 - [Teknik Muhabbetler #4 (Entity Framework Core & ORM)](https://medium.com/mobiroller-tech/teknik-muhabbetler-4-entity-framework-core-orm-8c5f12f578d5?source=rss-b7df331a97d0------2)
@@ -24,7 +25,6 @@
 - [Teknik Muhabbetler #2 (Custom Authentication Scheme)](https://medium.com/mobiroller-tech/teknik-muhabbetler-2-custom-authentication-scheme-c9bf7b433463?source=rss-b7df331a97d0------2)
 - [Teknik Muhabbetler #1 (Easy Cache)](https://medium.com/mobiroller-tech/teknik-muhabbetler-1-easy-cache-cd70acaa870f?source=rss-b7df331a97d0------2)
 - [Microservice Mimarisinde Haberleşme Teknikleri #3(Rest)](https://medium.com/devopsturkiye/microservice-mimarisinde-haberle%C5%9Fme-teknikleri-3-rest-c3a54165e834?source=rss-b7df331a97d0------2)
-- [Microservice Mimarisinde Haberleşme Teknikleri #2(gRPC)](https://medium.com/devopsturkiye/microservice-mimarisinde-haberle%C5%9Fme-teknikleri-2-grpc-c96c11b115cb?source=rss-b7df331a97d0------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### :zap: Recent Activity
