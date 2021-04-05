@@ -24,7 +24,6 @@
 - [Teknik Muhabbetler #4 (Entity Framework Core & ORM)](https://medium.com/mobiroller-tech/teknik-muhabbetler-4-entity-framework-core-orm-8c5f12f578d5?source=rss-b7df331a97d0------2)
 - [Teknik Muhabbetler #3 (CQRS)](https://medium.com/mobiroller-tech/teknik-muhabbetler-3-cqrs-dfc32f44280e?source=rss-b7df331a97d0------2)
 - [Teknik Muhabbetler #2 (Custom Authentication Scheme)](https://medium.com/mobiroller-tech/teknik-muhabbetler-2-custom-authentication-scheme-c9bf7b433463?source=rss-b7df331a97d0------2)
-- [Teknik Muhabbetler #1 (Easy Cache)](https://medium.com/mobiroller-tech/teknik-muhabbetler-1-easy-cache-cd70acaa870f?source=rss-b7df331a97d0------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### :zap: Recent Activity
