@@ -29,16 +29,16 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#69](https://github.com/furkandeveloper/EasyProfiler/issues/69) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
-2. 🗣 Commented on [#69](https://github.com/furkandeveloper/EasyProfiler/issues/69) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
-3. 🎉 Merged PR [#67](https://github.com/furkandeveloper/EasyProfiler/pull/67) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
-4. 🗣 Commented on [#68](https://github.com/furkandeveloper/EasyProfiler/issues/68) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
-5. 🗣 Commented on [#68](https://github.com/furkandeveloper/EasyProfiler/issues/68) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
-6. 🗣 Commented on [#67](https://github.com/furkandeveloper/EasyProfiler/issues/67) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
-7. 🗣 Commented on [#67](https://github.com/furkandeveloper/EasyProfiler/issues/67) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
-8. ❗️ Opened issue [#66](https://github.com/furkandeveloper/EasyProfiler/issues/66) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
-9. ❗️ Opened issue [#65](https://github.com/furkandeveloper/EasyProfiler/issues/65) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
-10. 🗣 Commented on [#292](https://github.com/jasontaylordev/CleanArchitecture/issues/292) in [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture)
+1. 🎉 Merged PR [#70](https://github.com/furkandeveloper/EasyProfiler/pull/70) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
+2. ❗️ Closed issue [#68](https://github.com/furkandeveloper/EasyProfiler/issues/68) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
+3. 🗣 Commented on [#69](https://github.com/furkandeveloper/EasyProfiler/issues/69) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
+4. 🗣 Commented on [#69](https://github.com/furkandeveloper/EasyProfiler/issues/69) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
+5. 🎉 Merged PR [#67](https://github.com/furkandeveloper/EasyProfiler/pull/67) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
+6. 🗣 Commented on [#68](https://github.com/furkandeveloper/EasyProfiler/issues/68) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
+7. 🗣 Commented on [#68](https://github.com/furkandeveloper/EasyProfiler/issues/68) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
+8. 🗣 Commented on [#67](https://github.com/furkandeveloper/EasyProfiler/issues/67) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
+9. 🗣 Commented on [#67](https://github.com/furkandeveloper/EasyProfiler/issues/67) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
+10. ❗️ Opened issue [#66](https://github.com/furkandeveloper/EasyProfiler/issues/66) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
 <!--END_SECTION:activity-->
 
 <hr/>
