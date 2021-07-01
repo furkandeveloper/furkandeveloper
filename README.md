@@ -31,10 +31,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#65](https://github.com/furkandeveloper/EasyProfiler/issues/65) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
-2. ❗️ Closed issue [#66](https://github.com/furkandeveloper/EasyProfiler/issues/66) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
-3. 🎉 Merged PR [#75](https://github.com/furkandeveloper/EasyProfiler/pull/75) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
-4. 💪 Opened PR [#75](https://github.com/furkandeveloper/EasyProfiler/pull/75) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
+1. 💪 Opened PR [#26](https://github.com/devnotcom/devnot-mentor-back-end/pull/26) in [devnotcom/devnot-mentor-back-end](https://github.com/devnotcom/devnot-mentor-back-end)
+2. ❗️ Closed issue [#65](https://github.com/furkandeveloper/EasyProfiler/issues/65) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
+3. ❗️ Closed issue [#66](https://github.com/furkandeveloper/EasyProfiler/issues/66) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
+4. 🎉 Merged PR [#75](https://github.com/furkandeveloper/EasyProfiler/pull/75) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
 5. ❌ Closed PR [#69](https://github.com/furkandeveloper/EasyProfiler/pull/69) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
 6. 🗣 Commented on [#69](https://github.com/furkandeveloper/EasyProfiler/issues/69) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
 7. 🎉 Merged PR [#74](https://github.com/furkandeveloper/EasyProfiler/pull/74) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
