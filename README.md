@@ -31,8 +31,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#26](https://github.com/devnotcom/devnot-mentor-back-end/pull/26) in [devnotcom/devnot-mentor-back-end](https://github.com/devnotcom/devnot-mentor-back-end)
-2. ❗️ Closed issue [#65](https://github.com/furkandeveloper/EasyProfiler/issues/65) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
+1. 💪 Opened PR [#58](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/pull/58) in [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
+2. 💪 Opened PR [#26](https://github.com/devnotcom/devnot-mentor-back-end/pull/26) in [devnotcom/devnot-mentor-back-end](https://github.com/devnotcom/devnot-mentor-back-end)
 3. ❗️ Closed issue [#66](https://github.com/furkandeveloper/EasyProfiler/issues/66) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
 4. 🎉 Merged PR [#75](https://github.com/furkandeveloper/EasyProfiler/pull/75) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
 5. ❌ Closed PR [#69](https://github.com/furkandeveloper/EasyProfiler/pull/69) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
