@@ -31,16 +31,16 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#58](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/pull/58) in [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
-2. 💪 Opened PR [#26](https://github.com/devnotcom/devnot-mentor-back-end/pull/26) in [devnotcom/devnot-mentor-back-end](https://github.com/devnotcom/devnot-mentor-back-end)
-3. ❗️ Closed issue [#66](https://github.com/furkandeveloper/EasyProfiler/issues/66) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
-4. 🎉 Merged PR [#75](https://github.com/furkandeveloper/EasyProfiler/pull/75) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
-5. ❌ Closed PR [#69](https://github.com/furkandeveloper/EasyProfiler/pull/69) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
-6. 🗣 Commented on [#69](https://github.com/furkandeveloper/EasyProfiler/issues/69) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
-7. 🎉 Merged PR [#74](https://github.com/furkandeveloper/EasyProfiler/pull/74) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
-8. 💪 Opened PR [#74](https://github.com/furkandeveloper/EasyProfiler/pull/74) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
-9. 🎉 Merged PR [#73](https://github.com/furkandeveloper/EasyProfiler/pull/73) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
-10. ❗️ Closed issue [#68](https://github.com/furkandeveloper/EasyProfiler/issues/68) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
+1. ❗️ Closed issue [#14](https://github.com/furkandeveloper/EasyCronJob/issues/14) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
+2. ❗️ Closed issue [#13](https://github.com/furkandeveloper/EasyCronJob/issues/13) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
+3. ❗️ Closed issue [#12](https://github.com/furkandeveloper/EasyCronJob/issues/12) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
+4. ❗️ Closed issue [#11](https://github.com/furkandeveloper/EasyCronJob/issues/11) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
+5. ❗️ Closed issue [#10](https://github.com/furkandeveloper/EasyCronJob/issues/10) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
+6. 🎉 Merged PR [#9](https://github.com/furkandeveloper/EasyCronJob/pull/9) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
+7. ❗️ Opened issue [#14](https://github.com/furkandeveloper/EasyCronJob/issues/14) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
+8. ❗️ Opened issue [#13](https://github.com/furkandeveloper/EasyCronJob/issues/13) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
+9. ❗️ Opened issue [#12](https://github.com/furkandeveloper/EasyCronJob/issues/12) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
+10. ❗️ Opened issue [#11](https://github.com/furkandeveloper/EasyCronJob/issues/11) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
 <!--END_SECTION:activity-->
 
 <hr/>
