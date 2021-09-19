@@ -18,6 +18,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Teknik Muhabbetler #9 (GDPR-Data Encryption)](https://furkan-dvlp.medium.com/teknik-muhabbetler-9-gdpr-data-encryption-caa6048ca4fc?source=rss-b7df331a97d0------2)
 - [Teknik Muhabbetler #8 (Statping, Servis durumları, Uygulamaya ne oldu?)](https://medium.com/devopsturkiye/teknik-muhabbetler-8-statping-servis-durumlar%C4%B1-uygulamaya-ne-oldu-8e61323baf3c?source=rss-b7df331a97d0------2)
 - [Teknik Muhabbetler #7 (Cron Job — IHostedService)](https://medium.com/devopsturkiye/teknik-muhabbetler-7-cron-job-ihostedservice-a6eff22e49ff?source=rss-b7df331a97d0------2)
 - [.Net 6 ve Yenilikleri #2 (Preview 4)](https://medium.com/devopsturkiye/net-6-ve-yenilikleri-2-preview-4-e9456e4a9920?source=rss-b7df331a97d0------2)
@@ -25,7 +26,6 @@
 - [.Net 6 ve Yenilikleri #1 (Preview 1 & Preview 2)](https://medium.com/devopsturkiye/net-6-ve-yenilikleri-1-preview-1-preview-2-6fd1b7667843?source=rss-b7df331a97d0------2)
 - [Teknik Muhabbetler #5 (Jwt-Authentication-Gerçek Senaryolar)](https://medium.com/mobiroller-tech/teknik-muhabbetler-5-jwt-authentication-ger%C3%A7ek-senaryolar-e987387d2197?source=rss-b7df331a97d0------2)
 - [.Net 5 ve Yenilikleri #2](https://medium.com/devopsturkiye/net-5-ve-yenilikleri-2-851b11e4b097?source=rss-b7df331a97d0------2)
-- [Teknik Muhabbetler #4 (Entity Framework Core & ORM)](https://medium.com/mobiroller-tech/teknik-muhabbetler-4-entity-framework-core-orm-8c5f12f578d5?source=rss-b7df331a97d0------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### :zap: Recent Activity
