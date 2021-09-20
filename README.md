@@ -18,7 +18,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Teknik Muhabbetler #9 (GDPR-Data Encryption)](https://furkan-dvlp.medium.com/teknik-muhabbetler-9-gdpr-data-encryption-caa6048ca4fc?source=rss-b7df331a97d0------2)
+- [Teknik Muhabbetler #9 (GDPR-Data Encryption)](https://medium.com/fowapps/teknik-muhabbetler-9-gdpr-data-encryption-caa6048ca4fc?source=rss-b7df331a97d0------2)
 - [Teknik Muhabbetler #8 (Statping, Servis durumları, Uygulamaya ne oldu?)](https://medium.com/devopsturkiye/teknik-muhabbetler-8-statping-servis-durumlar%C4%B1-uygulamaya-ne-oldu-8e61323baf3c?source=rss-b7df331a97d0------2)
 - [Teknik Muhabbetler #7 (Cron Job — IHostedService)](https://medium.com/devopsturkiye/teknik-muhabbetler-7-cron-job-ihostedservice-a6eff22e49ff?source=rss-b7df331a97d0------2)
 - [.Net 6 ve Yenilikleri #2 (Preview 4)](https://medium.com/devopsturkiye/net-6-ve-yenilikleri-2-preview-4-e9456e4a9920?source=rss-b7df331a97d0------2)
