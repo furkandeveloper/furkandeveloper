@@ -2,8 +2,6 @@
 <h3 align="center">I want to change the world, give me the source code.</h3>
 <h4 align="center">I ❤ Open Source.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=furkandeveloper" alt="furkandeveloper" /> </p>
-
 - 🔭 Bilge Adam Technologies [Bilge Adam Technologies](http://bilgeadamtechnologies.com)
 
 - 🌱 I’m currently learning **dotnetcore,xamarin,flutter,angularJS**
@@ -70,5 +68,9 @@
 
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=jl4vglhzn8cttvmmtdfd0giw9&cover_image=true&theme=default" /></div>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=furkandeveloper&&style=flat-square" align="center" />
+</div>
 
 
