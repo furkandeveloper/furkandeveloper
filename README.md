@@ -29,16 +29,16 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#127](https://github.com/furkandeveloper/EasyProfiler/issues/127) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
-2. 🗣 Commented on [#127](https://github.com/furkandeveloper/EasyProfiler/issues/127) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
-3. 🎉 Merged PR [#11](https://github.com/furkandeveloper/EasyPermissionManagement/pull/11) in [furkandeveloper/EasyPermissionManagement](https://github.com/furkandeveloper/EasyPermissionManagement)
-4. 🗣 Commented on [#10](https://github.com/furkandeveloper/EasyPermissionManagement/issues/10) in [furkandeveloper/EasyPermissionManagement](https://github.com/furkandeveloper/EasyPermissionManagement)
-5. ❗️ Opened issue [#5](https://github.com/furkandeveloper/EasyPermissionManagement/issues/5) in [furkandeveloper/EasyPermissionManagement](https://github.com/furkandeveloper/EasyPermissionManagement)
-6. ❗️ Opened issue [#4](https://github.com/furkandeveloper/EasyPermissionManagement/issues/4) in [furkandeveloper/EasyPermissionManagement](https://github.com/furkandeveloper/EasyPermissionManagement)
-7. ❗️ Opened issue [#127](https://github.com/furkandeveloper/EasyProfiler/issues/127) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
-8. ❗️ Closed issue [#122](https://github.com/furkandeveloper/EasyProfiler/issues/122) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
-9. ❗️ Closed issue [#123](https://github.com/furkandeveloper/EasyProfiler/issues/123) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
-10. 🎉 Merged PR [#125](https://github.com/furkandeveloper/EasyProfiler/pull/125) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
+1. 💪 Opened PR [#136](https://github.com/furkandeveloper/EasyProfiler/pull/136) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
+2. ❗️ Opened issue [#135](https://github.com/furkandeveloper/EasyProfiler/issues/135) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
+3. ❗️ Closed issue [#127](https://github.com/furkandeveloper/EasyProfiler/issues/127) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
+4. 🗣 Commented on [#127](https://github.com/furkandeveloper/EasyProfiler/issues/127) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
+5. 🎉 Merged PR [#11](https://github.com/furkandeveloper/EasyPermissionManagement/pull/11) in [furkandeveloper/EasyPermissionManagement](https://github.com/furkandeveloper/EasyPermissionManagement)
+6. 🗣 Commented on [#10](https://github.com/furkandeveloper/EasyPermissionManagement/issues/10) in [furkandeveloper/EasyPermissionManagement](https://github.com/furkandeveloper/EasyPermissionManagement)
+7. ❗️ Opened issue [#5](https://github.com/furkandeveloper/EasyPermissionManagement/issues/5) in [furkandeveloper/EasyPermissionManagement](https://github.com/furkandeveloper/EasyPermissionManagement)
+8. ❗️ Opened issue [#4](https://github.com/furkandeveloper/EasyPermissionManagement/issues/4) in [furkandeveloper/EasyPermissionManagement](https://github.com/furkandeveloper/EasyPermissionManagement)
+9. ❗️ Opened issue [#127](https://github.com/furkandeveloper/EasyProfiler/issues/127) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
+10. ❗️ Closed issue [#122](https://github.com/furkandeveloper/EasyProfiler/issues/122) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
 <!--END_SECTION:activity-->
 
 <hr/>
