@@ -29,16 +29,16 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#40](https://github.com/FowApps/IronHook/issues/40) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
-2. 💪 Opened PR [#39](https://github.com/FowApps/IronHook/pull/39) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
-3. 💪 Opened PR [#2752](https://github.com/github/explore/pull/2752) in [github/explore](https://github.com/github/explore)
-4. 🗣 Commented on [#29](https://github.com/FowApps/IronHook/issues/29) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
-5. 🎉 Merged PR [#129](https://github.com/furkandeveloper/EasyProfiler/pull/129) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
-6. 🎉 Merged PR [#128](https://github.com/furkandeveloper/EasyProfiler/pull/128) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
-7. 🎉 Merged PR [#131](https://github.com/furkandeveloper/EasyProfiler/pull/131) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
-8. 🎉 Merged PR [#126](https://github.com/furkandeveloper/EasyProfiler/pull/126) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
-9. 🎉 Merged PR [#130](https://github.com/furkandeveloper/EasyProfiler/pull/130) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
-10. 🎉 Merged PR [#132](https://github.com/furkandeveloper/EasyProfiler/pull/132) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
+1. ❗️ Opened issue [#44](https://github.com/FowApps/IronHook/issues/44) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
+2. ❗️ Opened issue [#43](https://github.com/FowApps/IronHook/issues/43) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
+3. 💪 Opened PR [#42](https://github.com/FowApps/IronHook/pull/42) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
+4. ❗️ Opened issue [#40](https://github.com/FowApps/IronHook/issues/40) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
+5. 💪 Opened PR [#39](https://github.com/FowApps/IronHook/pull/39) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
+6. 💪 Opened PR [#2752](https://github.com/github/explore/pull/2752) in [github/explore](https://github.com/github/explore)
+7. 🗣 Commented on [#29](https://github.com/FowApps/IronHook/issues/29) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
+8. 🎉 Merged PR [#129](https://github.com/furkandeveloper/EasyProfiler/pull/129) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
+9. 🎉 Merged PR [#128](https://github.com/furkandeveloper/EasyProfiler/pull/128) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
+10. 🎉 Merged PR [#131](https://github.com/furkandeveloper/EasyProfiler/pull/131) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
 <!--END_SECTION:activity-->
 
 <hr/>
