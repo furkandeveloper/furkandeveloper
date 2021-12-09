@@ -31,14 +31,14 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#45](https://github.com/FowApps/IronHook/issues/45) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
 2. 🗣 Commented on [#45](https://github.com/FowApps/IronHook/issues/45) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
-3. ❌ Closed PR [#42](https://github.com/FowApps/IronHook/pull/42) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
-4. ❗️ Opened issue [#44](https://github.com/FowApps/IronHook/issues/44) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
-5. ❗️ Opened issue [#43](https://github.com/FowApps/IronHook/issues/43) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
-6. 💪 Opened PR [#42](https://github.com/FowApps/IronHook/pull/42) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
-7. ❗️ Opened issue [#40](https://github.com/FowApps/IronHook/issues/40) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
-8. 💪 Opened PR [#39](https://github.com/FowApps/IronHook/pull/39) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
-9. 💪 Opened PR [#2752](https://github.com/github/explore/pull/2752) in [github/explore](https://github.com/github/explore)
-10. 🗣 Commented on [#29](https://github.com/FowApps/IronHook/issues/29) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
+3. 🗣 Commented on [#45](https://github.com/FowApps/IronHook/issues/45) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
+4. 🗣 Commented on [#45](https://github.com/FowApps/IronHook/issues/45) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
+5. ❌ Closed PR [#42](https://github.com/FowApps/IronHook/pull/42) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
+6. ❗️ Opened issue [#44](https://github.com/FowApps/IronHook/issues/44) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
+7. ❗️ Opened issue [#43](https://github.com/FowApps/IronHook/issues/43) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
+8. 💪 Opened PR [#42](https://github.com/FowApps/IronHook/pull/42) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
+9. ❗️ Opened issue [#40](https://github.com/FowApps/IronHook/issues/40) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
+10. 💪 Opened PR [#39](https://github.com/FowApps/IronHook/pull/39) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
 <!--END_SECTION:activity-->
 
 <hr/>
