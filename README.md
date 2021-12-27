@@ -29,16 +29,16 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/Abdullah-V/Turkce-Bloglar/pull/4) in [Abdullah-V/Turkce-Bloglar](https://github.com/Abdullah-V/Turkce-Bloglar)
-2. 🗣 Commented on [#45](https://github.com/FowApps/IronHook/issues/45) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
+1. 💪 Opened PR [#54](https://github.com/FowApps/IronHook/pull/54) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
+2. 💪 Opened PR [#4](https://github.com/Abdullah-V/Turkce-Bloglar/pull/4) in [Abdullah-V/Turkce-Bloglar](https://github.com/Abdullah-V/Turkce-Bloglar)
 3. 🗣 Commented on [#45](https://github.com/FowApps/IronHook/issues/45) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
-4. 🎉 Merged PR [#50](https://github.com/FowApps/IronHook/pull/50) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
-5. 💪 Opened PR [#50](https://github.com/FowApps/IronHook/pull/50) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
-6. ❗️ Closed issue [#43](https://github.com/FowApps/IronHook/issues/43) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
-7. ❗️ Closed issue [#40](https://github.com/FowApps/IronHook/issues/40) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
-8. 🎉 Merged PR [#45](https://github.com/FowApps/IronHook/pull/45) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
-9. ❗️ Closed issue [#44](https://github.com/FowApps/IronHook/issues/44) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
-10. 🗣 Commented on [#45](https://github.com/FowApps/IronHook/issues/45) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
+4. 🗣 Commented on [#45](https://github.com/FowApps/IronHook/issues/45) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
+5. 🎉 Merged PR [#50](https://github.com/FowApps/IronHook/pull/50) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
+6. 💪 Opened PR [#50](https://github.com/FowApps/IronHook/pull/50) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
+7. ❗️ Closed issue [#43](https://github.com/FowApps/IronHook/issues/43) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
+8. ❗️ Closed issue [#40](https://github.com/FowApps/IronHook/issues/40) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
+9. 🎉 Merged PR [#45](https://github.com/FowApps/IronHook/pull/45) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
+10. ❗️ Closed issue [#44](https://github.com/FowApps/IronHook/issues/44) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
 <!--END_SECTION:activity-->
 
 <hr/>
