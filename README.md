@@ -16,7 +16,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [.Net 6 ve Yenilikleri #3 &lpar;All Features&rpar;](https://furkan-dvlp.medium.com/net-6-ve-yenilikleri-3-all-features-248638f92b8e?source=rss-b7df331a97d0------2)
+- [.Net 6 ve Yenilikleri #3 &lpar;All Features&rpar;](https://medium.com/devopsturkiye/net-6-ve-yenilikleri-3-all-features-248638f92b8e?source=rss-b7df331a97d0------2)
 - [Hook Operasyonları-Entegrasyon Sihirbazı‍♂️&lpar;Iron Hook&rpar;](https://medium.com/fowapps/hook-operasyonlar%C4%B1-entegrasyon-sihirbaz%C4%B1-%EF%B8%8F-iron-hook-db2615d83205?source=rss-b7df331a97d0------2)
 - [Performance Tracking On EF Core With Easy Profiler &lpar;Finally &rpar;](https://medium.com/devopsturkiye/performance-tracking-on-ef-core-with-easy-profiler-finally-ff8ba0727377?source=rss-b7df331a97d0------2)
 - [Teknik Muhabbetler #9 &lpar;GDPR-Data Encryption&rpar;](https://medium.com/fowapps/teknik-muhabbetler-9-gdpr-data-encryption-caa6048ca4fc?source=rss-b7df331a97d0------2)
