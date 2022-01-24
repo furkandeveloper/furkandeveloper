@@ -4,8 +4,6 @@
 
 - 🔭 Bilge Adam Technologies [Bilge Adam Technologies](http://bilgeadamtechnologies.com)
 
-- 🌱 I’m currently learning **dotnetcore,xamarin,flutter,angularJS**
-
 - 👨‍💻 All of my projects are available at [https://github.com/furkandeveloper?tab=repositories](https://github.com/furkandeveloper?tab=repositories)
 
 - 📝 I regulary write articles on [https://medium.com/@furkan.dvlp](https://medium.com/@furkan.dvlp)
