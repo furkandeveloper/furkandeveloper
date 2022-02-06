@@ -27,15 +27,15 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/furkandeveloper/EasyCronJob/issues/25) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
-2. 🗣 Commented on [#23](https://github.com/furkandeveloper/EasyCronJob/issues/23) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
-3. ❗️ Closed issue [#23](https://github.com/furkandeveloper/EasyCronJob/issues/23) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
-4. 🎉 Merged PR [#24](https://github.com/furkandeveloper/EasyCronJob/pull/24) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
-5. 💪 Opened PR [#24](https://github.com/furkandeveloper/EasyCronJob/pull/24) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
-6. 🗣 Commented on [#22](https://github.com/furkandeveloper/EasyCronJob/issues/22) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
-7. 🗣 Commented on [#22](https://github.com/furkandeveloper/EasyCronJob/issues/22) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
-8. 💪 Opened PR [#43](https://github.com/dotnet-foundation/wg-maintainers/pull/43) in [dotnet-foundation/wg-maintainers](https://github.com/dotnet-foundation/wg-maintainers)
-9. ❗️ Opened issue [#33](https://github.com/dotnet-foundation/wg-maintainers/issues/33) in [dotnet-foundation/wg-maintainers](https://github.com/dotnet-foundation/wg-maintainers)
+1. ❗️ Closed issue [#25](https://github.com/furkandeveloper/EasyCronJob/issues/25) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
+2. 🗣 Commented on [#25](https://github.com/furkandeveloper/EasyCronJob/issues/25) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
+3. 🎉 Merged PR [#28](https://github.com/furkandeveloper/EasyCronJob/pull/28) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
+4. 💪 Opened PR [#28](https://github.com/furkandeveloper/EasyCronJob/pull/28) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
+5. 🗣 Commented on [#25](https://github.com/furkandeveloper/EasyCronJob/issues/25) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
+6. 🗣 Commented on [#23](https://github.com/furkandeveloper/EasyCronJob/issues/23) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
+7. ❗️ Closed issue [#23](https://github.com/furkandeveloper/EasyCronJob/issues/23) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
+8. 🎉 Merged PR [#24](https://github.com/furkandeveloper/EasyCronJob/pull/24) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
+9. 💪 Opened PR [#24](https://github.com/furkandeveloper/EasyCronJob/pull/24) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
 10. 🗣 Commented on [#22](https://github.com/furkandeveloper/EasyCronJob/issues/22) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
 <!--END_SECTION:activity-->
 
