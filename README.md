@@ -27,6 +27,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Permission, Package And Feature Management With AspNetCore](https://medium.com/devopsturkiye/permission-package-and-feature-management-with-aspnetcore-33a51f3d3e56?source=rss-b7df331a97d0------2)
 - [EF Core 7.0 ve Yenilikleri](https://medium.com/devopsturkiye/ef-core-7-0-ve-yenilikleri-e8959cd8a019?source=rss-b7df331a97d0------2)
 - [.Net 6 ve Yenilikleri #3 &lpar;All Features&rpar;](https://medium.com/devopsturkiye/net-6-ve-yenilikleri-3-all-features-248638f92b8e?source=rss-b7df331a97d0------2)
 - [Hook Operasyonları-Entegrasyon Sihirbazı‍♂️&lpar;Iron Hook&rpar;](https://medium.com/fowapps/hook-operasyonlar%C4%B1-entegrasyon-sihirbaz%C4%B1-%EF%B8%8F-iron-hook-db2615d83205?source=rss-b7df331a97d0------2)
@@ -34,7 +35,6 @@
 - [Teknik Muhabbetler #9 &lpar;GDPR-Data Encryption&rpar;](https://medium.com/fowapps/teknik-muhabbetler-9-gdpr-data-encryption-caa6048ca4fc?source=rss-b7df331a97d0------2)
 - [Teknik Muhabbetler #8 &lpar;Statping, Servis durumları, Uygulamaya ne oldu?&rpar;](https://medium.com/devopsturkiye/teknik-muhabbetler-8-statping-servis-durumlar%C4%B1-uygulamaya-ne-oldu-8e61323baf3c?source=rss-b7df331a97d0------2)
 - [Teknik Muhabbetler #7 &lpar;Cron Job — IHostedService&rpar;](https://medium.com/devopsturkiye/teknik-muhabbetler-7-cron-job-ihostedservice-a6eff22e49ff?source=rss-b7df331a97d0------2)
-- [.Net 6 ve Yenilikleri #2 &lpar;Preview 4&rpar;](https://medium.com/devopsturkiye/net-6-ve-yenilikleri-2-preview-4-e9456e4a9920?source=rss-b7df331a97d0------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### :zap: Recent Activity
