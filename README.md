@@ -27,6 +27,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Masumiyet Tuzağı-Enum ToString&lpar;&rpar; Performance](https://medium.com/devopsturkiye/masumiyet-tuza%C4%9F%C4%B1-enum-tostring-performance-ccf2af735201?source=rss-b7df331a97d0------2)
 - [Permission, Package And Feature Management With AspNetCore](https://medium.com/devopsturkiye/permission-package-and-feature-management-with-aspnetcore-33a51f3d3e56?source=rss-b7df331a97d0------2)
 - [EF Core 7.0 ve Yenilikleri](https://medium.com/devopsturkiye/ef-core-7-0-ve-yenilikleri-e8959cd8a019?source=rss-b7df331a97d0------2)
 - [.Net 6 ve Yenilikleri #3 &lpar;All Features&rpar;](https://medium.com/devopsturkiye/net-6-ve-yenilikleri-3-all-features-248638f92b8e?source=rss-b7df331a97d0------2)
@@ -34,7 +35,6 @@
 - [Performance Tracking On EF Core With Easy Profiler &lpar;Finally &rpar;](https://medium.com/devopsturkiye/performance-tracking-on-ef-core-with-easy-profiler-finally-ff8ba0727377?source=rss-b7df331a97d0------2)
 - [Teknik Muhabbetler #9 &lpar;GDPR-Data Encryption&rpar;](https://medium.com/fowapps/teknik-muhabbetler-9-gdpr-data-encryption-caa6048ca4fc?source=rss-b7df331a97d0------2)
 - [Teknik Muhabbetler #8 &lpar;Statping, Servis durumları, Uygulamaya ne oldu?&rpar;](https://medium.com/devopsturkiye/teknik-muhabbetler-8-statping-servis-durumlar%C4%B1-uygulamaya-ne-oldu-8e61323baf3c?source=rss-b7df331a97d0------2)
-- [Teknik Muhabbetler #7 &lpar;Cron Job — IHostedService&rpar;](https://medium.com/devopsturkiye/teknik-muhabbetler-7-cron-job-ihostedservice-a6eff22e49ff?source=rss-b7df331a97d0------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### :zap: Recent Activity
