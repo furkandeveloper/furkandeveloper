@@ -25,6 +25,24 @@
 - 📫 How to reach me **furkan.dvlp@gmail.com**
 
 
+### Projects
+
+
+| Name | Description     | Stars                |
+| :-------- | :------- | :------------------------- |
+| `EasyProfiler` | `This repo, provides query profiler for .Net` | ![GitHub Repo stars](https://img.shields.io/github/stars/furkandeveloper/EasyProfiler?style=social) |
+| `EasyCronJob` | `This repository provides easy cron job to your application on IHostedService.` | ![GitHub Repo stars](https://img.shields.io/github/stars/furkandeveloper/EasyCronJob?style=social) |
+| `EasyCache` | ` This library contains more than one cache provider for dotnet.` | ![GitHub Repo stars](https://img.shields.io/github/stars/furkandeveloper/EasyCache?style=social) |
+| `IronHook` | `This repository provides easily management hook operations for dotnet application.` | ![GitHub Repo stars](https://img.shields.io/github/stars/FowApps/IronHook?style=social) |
+| `EasyPermissionManagement` | `This repo provides easily permission management on your aspnetcore project` | ![GitHub Repo stars](https://img.shields.io/github/stars/furkandeveloper/EasyPermissionManagement?style=social) |
+| `EasyRepository.EFCore` | `This repo provides implementation generic repository pattern on Entity Framework Core` | ![GitHub Repo stars](https://img.shields.io/github/stars/furkandeveloper/EasyRepository.EFCore?style=social) |
+| `EasyWeb` | `Easy Web It combines models common to every web application into a single solution.` | ![GitHub Repo stars](https://img.shields.io/github/stars/furkandeveloper/EasyWeb?style=social) |
+| `EasyTokenGenerator` | `This repo aims to dynamically and simply generate tokens in Token Based systems.` | ![GitHub Repo stars](https://img.shields.io/github/stars/furkandeveloper/EasyTokenGenerator?style=social) |
+
+
+  
+
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Masumiyet Tuzağı-Enum ToString&lpar;&rpar; Performance](https://medium.com/devopsturkiye/masumiyet-tuza%C4%9F%C4%B1-enum-tostring-performance-ccf2af735201?source=rss-b7df331a97d0------2)
