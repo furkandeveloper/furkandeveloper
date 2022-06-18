@@ -59,14 +59,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#81](https://github.com/FowApps/IronHook/pull/81) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
-2. ❗️ Opened issue [#12](https://github.com/furkandeveloper/EasyWeb/issues/12) in [furkandeveloper/EasyWeb](https://github.com/furkandeveloper/EasyWeb)
-3. ❗️ Opened issue [#11](https://github.com/furkandeveloper/EasyWeb/issues/11) in [furkandeveloper/EasyWeb](https://github.com/furkandeveloper/EasyWeb)
-4. ❗️ Opened issue [#10](https://github.com/furkandeveloper/EasyWeb/issues/10) in [furkandeveloper/EasyWeb](https://github.com/furkandeveloper/EasyWeb)
-5. ❗️ Opened issue [#9](https://github.com/furkandeveloper/EasyWeb/issues/9) in [furkandeveloper/EasyWeb](https://github.com/furkandeveloper/EasyWeb)
-6. 🎉 Merged PR [#182](https://github.com/furkandeveloper/EasyProfiler/pull/182) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
-7. ❗️ Closed issue [#185](https://github.com/furkandeveloper/EasyProfiler/issues/185) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
-8. 🎉 Merged PR [#183](https://github.com/furkandeveloper/EasyProfiler/pull/183) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
+1. ❗️ Opened issue [#10](https://github.com/furkandeveloper/EasyRepository.EFCore/issues/10) in [furkandeveloper/EasyRepository.EFCore](https://github.com/furkandeveloper/EasyRepository.EFCore)
+2. 💪 Opened PR [#81](https://github.com/FowApps/IronHook/pull/81) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
+3. ❗️ Opened issue [#12](https://github.com/furkandeveloper/EasyWeb/issues/12) in [furkandeveloper/EasyWeb](https://github.com/furkandeveloper/EasyWeb)
+4. ❗️ Opened issue [#11](https://github.com/furkandeveloper/EasyWeb/issues/11) in [furkandeveloper/EasyWeb](https://github.com/furkandeveloper/EasyWeb)
+5. ❗️ Opened issue [#10](https://github.com/furkandeveloper/EasyWeb/issues/10) in [furkandeveloper/EasyWeb](https://github.com/furkandeveloper/EasyWeb)
+6. ❗️ Opened issue [#9](https://github.com/furkandeveloper/EasyWeb/issues/9) in [furkandeveloper/EasyWeb](https://github.com/furkandeveloper/EasyWeb)
+7. 🎉 Merged PR [#182](https://github.com/furkandeveloper/EasyProfiler/pull/182) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
+8. ❗️ Closed issue [#185](https://github.com/furkandeveloper/EasyProfiler/issues/185) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
 9. ❗️ Closed issue [#184](https://github.com/furkandeveloper/EasyProfiler/issues/184) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
 10. ❗️ Opened issue [#185](https://github.com/furkandeveloper/EasyProfiler/issues/185) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
 <!--END_SECTION:activity-->
