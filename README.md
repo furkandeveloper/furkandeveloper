@@ -59,14 +59,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/furkandeveloper/EasyCronJob/issues/37) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
-2. 🎉 Merged PR [#11](https://github.com/furkandeveloper/EasyRepository.EFCore/pull/11) in [furkandeveloper/EasyRepository.EFCore](https://github.com/furkandeveloper/EasyRepository.EFCore)
-3. ❗️ Closed issue [#10](https://github.com/furkandeveloper/EasyRepository.EFCore/issues/10) in [furkandeveloper/EasyRepository.EFCore](https://github.com/furkandeveloper/EasyRepository.EFCore)
-4. 💪 Opened PR [#11](https://github.com/furkandeveloper/EasyRepository.EFCore/pull/11) in [furkandeveloper/EasyRepository.EFCore](https://github.com/furkandeveloper/EasyRepository.EFCore)
-5. ❗️ Opened issue [#10](https://github.com/furkandeveloper/EasyRepository.EFCore/issues/10) in [furkandeveloper/EasyRepository.EFCore](https://github.com/furkandeveloper/EasyRepository.EFCore)
-6. 💪 Opened PR [#81](https://github.com/FowApps/IronHook/pull/81) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
-7. ❗️ Opened issue [#11](https://github.com/furkandeveloper/EasyWeb/issues/11) in [furkandeveloper/EasyWeb](https://github.com/furkandeveloper/EasyWeb)
-8. ❗️ Opened issue [#10](https://github.com/furkandeveloper/EasyWeb/issues/10) in [furkandeveloper/EasyWeb](https://github.com/furkandeveloper/EasyWeb)
+1. ❗️ Opened issue [#12](https://github.com/furkandeveloper/EasyRepository.EFCore/issues/12) in [furkandeveloper/EasyRepository.EFCore](https://github.com/furkandeveloper/EasyRepository.EFCore)
+2. 🗣 Commented on [#38](https://github.com/furkandeveloper/EasyCronJob/issues/38) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
+3. 🗣 Commented on [#37](https://github.com/furkandeveloper/EasyCronJob/issues/37) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
+4. 🎉 Merged PR [#11](https://github.com/furkandeveloper/EasyRepository.EFCore/pull/11) in [furkandeveloper/EasyRepository.EFCore](https://github.com/furkandeveloper/EasyRepository.EFCore)
+5. ❗️ Closed issue [#10](https://github.com/furkandeveloper/EasyRepository.EFCore/issues/10) in [furkandeveloper/EasyRepository.EFCore](https://github.com/furkandeveloper/EasyRepository.EFCore)
+6. 💪 Opened PR [#11](https://github.com/furkandeveloper/EasyRepository.EFCore/pull/11) in [furkandeveloper/EasyRepository.EFCore](https://github.com/furkandeveloper/EasyRepository.EFCore)
+7. ❗️ Opened issue [#10](https://github.com/furkandeveloper/EasyRepository.EFCore/issues/10) in [furkandeveloper/EasyRepository.EFCore](https://github.com/furkandeveloper/EasyRepository.EFCore)
+8. 💪 Opened PR [#81](https://github.com/FowApps/IronHook/pull/81) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
 9. ❗️ Opened issue [#9](https://github.com/furkandeveloper/EasyWeb/issues/9) in [furkandeveloper/EasyWeb](https://github.com/furkandeveloper/EasyWeb)
 10. ❗️ Opened issue [#185](https://github.com/furkandeveloper/EasyProfiler/issues/185) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
 <!--END_SECTION:activity-->
