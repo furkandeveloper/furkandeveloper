@@ -46,6 +46,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AAA Pattern &lpar;Arrange, Assert, Act&rpar;](https://medium.com/devopsturkiye/aaa-pattern-arrange-assert-act-2e4746b30352?source=rss-b7df331a97d0------2)
 - [Boxing vs Unboxing](https://medium.com/fowapps/boxing-vs-unboxing-253265a34215?source=rss-b7df331a97d0------2)
 - [Monitoring Modern Systems with SigNoz &amp; OpenTelemetry](https://medium.com/devopsturkiye/monitoring-modern-systems-with-signoz-opentelemetry-7fbb99fa7f43?source=rss-b7df331a97d0------2)
 - [Kabul Testi Nedir? &lpar;.Net with SpecFlow&rpar;](https://medium.com/devopsturkiye/kabul-testi-nedir-net-with-specflow-76141642312f?source=rss-b7df331a97d0------2)
@@ -53,7 +54,6 @@
 - [Masumiyet Tuzağı-Enum ToString&lpar;&rpar; Performance](https://medium.com/devopsturkiye/masumiyet-tuza%C4%9F%C4%B1-enum-tostring-performance-ccf2af735201?source=rss-b7df331a97d0------2)
 - [Permission, Package And Feature Management With AspNetCore](https://medium.com/devopsturkiye/permission-package-and-feature-management-with-aspnetcore-33a51f3d3e56?source=rss-b7df331a97d0------2)
 - [EF Core 7.0 ve Yenilikleri](https://medium.com/devopsturkiye/ef-core-7-0-ve-yenilikleri-e8959cd8a019?source=rss-b7df331a97d0------2)
-- [.Net 6 ve Yenilikleri #3 &lpar;All Features&rpar;](https://medium.com/devopsturkiye/net-6-ve-yenilikleri-3-all-features-248638f92b8e?source=rss-b7df331a97d0------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### :zap: Recent Activity
