@@ -46,7 +46,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [AAA Pattern &lpar;Arrange, Assert, Act&rpar;](https://medium.com/fowapps/aaa-pattern-arrange-assert-act-2e4746b30352?source=rss-b7df331a97d0------2)
+- [AAA Pattern &lpar;Arrange, Act, Assert&rpar;](https://medium.com/fowapps/aaa-pattern-arrange-assert-act-2e4746b30352?source=rss-b7df331a97d0------2)
 - [Boxing vs Unboxing](https://medium.com/fowapps/boxing-vs-unboxing-253265a34215?source=rss-b7df331a97d0------2)
 - [Monitoring Modern Systems with SigNoz &amp; OpenTelemetry](https://medium.com/devopsturkiye/monitoring-modern-systems-with-signoz-opentelemetry-7fbb99fa7f43?source=rss-b7df331a97d0------2)
 - [Kabul Testi Nedir? &lpar;.Net with SpecFlow&rpar;](https://medium.com/devopsturkiye/kabul-testi-nedir-net-with-specflow-76141642312f?source=rss-b7df331a97d0------2)
