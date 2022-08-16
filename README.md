@@ -46,6 +46,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [.Net 7 ve Yenilikleri &lpar;Output Caching Middleware&rpar;](https://medium.com/devopsturkiye/net-7-ve-yenilikleri-output-caching-middleware-741d176b4fa5?source=rss-b7df331a97d0------2)
 - [AAA Pattern &lpar;Arrange, Act, Assert&rpar;](https://medium.com/fowapps/aaa-pattern-arrange-assert-act-2e4746b30352?source=rss-b7df331a97d0------2)
 - [Boxing vs Unboxing](https://medium.com/fowapps/boxing-vs-unboxing-253265a34215?source=rss-b7df331a97d0------2)
 - [Monitoring Modern Systems with SigNoz &amp; OpenTelemetry](https://medium.com/devopsturkiye/monitoring-modern-systems-with-signoz-opentelemetry-7fbb99fa7f43?source=rss-b7df331a97d0------2)
@@ -53,7 +54,6 @@
 - [Clean Code Performansın Düşmanı mı?](https://medium.com/devopsturkiye/clean-code-performans%C4%B1n-d%C3%BC%C5%9Fman%C4%B1-m%C4%B1-12c07d4c28b4?source=rss-b7df331a97d0------2)
 - [Masumiyet Tuzağı-Enum ToString&lpar;&rpar; Performance](https://medium.com/devopsturkiye/masumiyet-tuza%C4%9F%C4%B1-enum-tostring-performance-ccf2af735201?source=rss-b7df331a97d0------2)
 - [Permission, Package And Feature Management With AspNetCore](https://medium.com/devopsturkiye/permission-package-and-feature-management-with-aspnetcore-33a51f3d3e56?source=rss-b7df331a97d0------2)
-- [EF Core 7.0 ve Yenilikleri](https://medium.com/devopsturkiye/ef-core-7-0-ve-yenilikleri-e8959cd8a019?source=rss-b7df331a97d0------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### :zap: Recent Activity
