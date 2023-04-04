@@ -55,7 +55,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#24](https://github.com/furkandeveloper/EasyRepository.EFCore/issues/24) in [furkandeveloper/EasyRepository.EFCore](https://github.com/furkandeveloper/EasyRepository.EFCore)
+1. 🗣 Commented on [#22](https://github.com/furkandeveloper/EasyCronJob/issues/22) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
 2. 🎉 Merged PR [#23](https://github.com/furkandeveloper/EasyRepository.EFCore/pull/23) in [furkandeveloper/EasyRepository.EFCore](https://github.com/furkandeveloper/EasyRepository.EFCore)
 3. 💪 Opened PR [#23](https://github.com/furkandeveloper/EasyRepository.EFCore/pull/23) in [furkandeveloper/EasyRepository.EFCore](https://github.com/furkandeveloper/EasyRepository.EFCore)
 4. ❗️ Closed issue [#37](https://github.com/furkandeveloper/EasyCronJob/issues/37) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
