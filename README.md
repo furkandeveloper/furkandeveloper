@@ -42,6 +42,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Comparing Keyset Pagination and Offset Pagination in C#: Performance and Functionality](https://furkan-dvlp.medium.com/comparing-keyset-pagination-and-offset-pagination-in-c-performance-and-functionality-ed2face83e3b?source=rss-b7df331a97d0------2)
 - [Sıfırdan Bire-Startuplar Üzerine Notlar](https://furkan-dvlp.medium.com/s%C4%B1f%C4%B1rdan-bire-startuplar-%C3%BCzerine-notlar-c499c3863c83?source=rss-b7df331a97d0------2)
 - [.Net 7 ve Yenilikleri &lpar;EF.Core-ExecuteDelete-ExecuteUpdate&rpar;](https://medium.com/devopsturkiye/net-7-ve-yenilikleri-ef-core-executedelete-executeupdate-32a630c8676c?source=rss-b7df331a97d0------2)
 - [.Net 7 ve Yenilikleri &lpar;Rate Limiter&rpar;](https://medium.com/devopsturkiye/net-7-ve-yenilikleri-rate-limiter-1599b0db1173?source=rss-b7df331a97d0------2)
@@ -49,7 +50,6 @@
 - [AAA Pattern &lpar;Arrange, Act, Assert&rpar;](https://medium.com/fowapps/aaa-pattern-arrange-assert-act-2e4746b30352?source=rss-b7df331a97d0------2)
 - [Boxing vs Unboxing](https://medium.com/fowapps/boxing-vs-unboxing-253265a34215?source=rss-b7df331a97d0------2)
 - [Monitoring Modern Systems with SigNoz &amp; OpenTelemetry](https://medium.com/devopsturkiye/monitoring-modern-systems-with-signoz-opentelemetry-7fbb99fa7f43?source=rss-b7df331a97d0------2)
-- [Kabul Testi Nedir? &lpar;.Net with SpecFlow&rpar;](https://medium.com/devopsturkiye/kabul-testi-nedir-net-with-specflow-76141642312f?source=rss-b7df331a97d0------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### :zap: Recent Activity
