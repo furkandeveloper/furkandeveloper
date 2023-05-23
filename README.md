@@ -35,6 +35,7 @@
 | `EasyWeb` | `Easy Web It combines models common to every web application into a single solution.` | ![GitHub Repo stars](https://img.shields.io/github/stars/furkandeveloper/EasyWeb?style=social) |
 | `EasyTokenGenerator` | `This repo aims to dynamically and simply generate tokens in Token Based systems.` | ![GitHub Repo stars](https://img.shields.io/github/stars/furkandeveloper/EasyTokenGenerator?style=social) |
 | `EntityFrameworkCore.DataEncryption` | `This package is a plugin that adds data encryption support to EF Core. ` | ![GitHub Repo stars](https://img.shields.io/github/stars/furkandeveloper/EntityFrameworkCore.DataEncryption?style=social) |
+| `SlugSharp` | `This repository provides slug generator helper for dotnet ` | ![GitHub Repo stars](https://img.shields.io/github/stars/furkandeveloper/SlugSharp?style=social) |
 
 
   
