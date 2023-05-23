@@ -56,9 +56,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/furkandeveloper/EasyCronJob/issues/22) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
-2. 🎉 Merged PR [#23](https://github.com/furkandeveloper/EasyRepository.EFCore/pull/23) in [furkandeveloper/EasyRepository.EFCore](https://github.com/furkandeveloper/EasyRepository.EFCore)
-3. 💪 Opened PR [#23](https://github.com/furkandeveloper/EasyRepository.EFCore/pull/23) in [furkandeveloper/EasyRepository.EFCore](https://github.com/furkandeveloper/EasyRepository.EFCore)
+1. 🗣 Commented on [#2](https://github.com/furkandeveloper/SlugSharp/issues/2) in [furkandeveloper/SlugSharp](https://github.com/furkandeveloper/SlugSharp)
+2. 🎉 Merged PR [#2](https://github.com/furkandeveloper/SlugSharp/pull/2) in [furkandeveloper/SlugSharp](https://github.com/furkandeveloper/SlugSharp)
+3. 🗣 Commented on [#22](https://github.com/furkandeveloper/EasyCronJob/issues/22) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
 4. ❗️ Closed issue [#37](https://github.com/furkandeveloper/EasyCronJob/issues/37) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
 5. 🗣 Commented on [#21](https://github.com/furkandeveloper/EasyRepository.EFCore/issues/21) in [furkandeveloper/EasyRepository.EFCore](https://github.com/furkandeveloper/EasyRepository.EFCore)
 6. 🗣 Commented on [#19](https://github.com/furkandeveloper/EasyRepository.EFCore/issues/19) in [furkandeveloper/EasyRepository.EFCore](https://github.com/furkandeveloper/EasyRepository.EFCore)
