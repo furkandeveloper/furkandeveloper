@@ -56,8 +56,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/furkandeveloper/SlugSharp/issues/2) in [furkandeveloper/SlugSharp](https://github.com/furkandeveloper/SlugSharp)
-2. 🚀 Published release [Unidecode Support](https://github.com/Unidecode Support) in [furkandeveloper/SlugSharp](https://github.com/furkandeveloper/SlugSharp)
+1. 🗣 Commented on [#2](https://github.com/furkandeveloper/SlugSharp/pull/2#issuecomment-1560028809) in [furkandeveloper/SlugSharp](https://github.com/furkandeveloper/SlugSharp)
+2. 🚀 Published release [Unidecode Support](https://github.com/furkandeveloper/SlugSharp/releases/tag/v1.0.1) in [furkandeveloper/SlugSharp](https://github.com/furkandeveloper/SlugSharp)
 3. 🎉 Merged PR [#2](https://github.com/furkandeveloper/SlugSharp/pull/2) in [furkandeveloper/SlugSharp](https://github.com/furkandeveloper/SlugSharp)
 4. 🗣 Commented on [#22](https://github.com/furkandeveloper/EasyCronJob/issues/22) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
 5. 🗣 Commented on [#21](https://github.com/furkandeveloper/EasyRepository.EFCore/issues/21) in [furkandeveloper/EasyRepository.EFCore](https://github.com/furkandeveloper/EasyRepository.EFCore)
