@@ -43,6 +43,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Fast Enum in .Net](https://furkan-dvlp.medium.com/fast-enum-in-net-0a08d51b4dbc?source=rss-b7df331a97d0------2)
 - [EasyRepository.EFCore: Entity Framework Core için Kolay ve Esnek Repository Pattern Uygulaması](https://furkan-dvlp.medium.com/easyrepository-efcore-entity-framework-core-i%C3%A7in-kolay-ve-esnek-repository-pattern-uygulamas%C4%B1-5d60bf20942f?source=rss-b7df331a97d0------2)
 - [Comparing Keyset Pagination and Offset Pagination in C#: Performance and Functionality](https://medium.com/devopsturkiye/comparing-keyset-pagination-and-offset-pagination-in-c-performance-and-functionality-ed2face83e3b?source=rss-b7df331a97d0------2)
 - [Sıfırdan Bire-Startuplar Üzerine Notlar](https://furkan-dvlp.medium.com/s%C4%B1f%C4%B1rdan-bire-startuplar-%C3%BCzerine-notlar-c499c3863c83?source=rss-b7df331a97d0------2)
@@ -50,7 +51,6 @@
 - [.Net 7 ve Yenilikleri &lpar;Rate Limiter&rpar;](https://medium.com/devopsturkiye/net-7-ve-yenilikleri-rate-limiter-1599b0db1173?source=rss-b7df331a97d0------2)
 - [.Net 7 ve Yenilikleri &lpar;Output Caching Middleware&rpar;](https://medium.com/devopsturkiye/net-7-ve-yenilikleri-output-caching-middleware-741d176b4fa5?source=rss-b7df331a97d0------2)
 - [AAA Pattern &lpar;Arrange, Act, Assert&rpar;](https://medium.com/fowapps/aaa-pattern-arrange-assert-act-2e4746b30352?source=rss-b7df331a97d0------2)
-- [Boxing vs Unboxing](https://medium.com/fowapps/boxing-vs-unboxing-253265a34215?source=rss-b7df331a97d0------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### :zap: Recent Activity
