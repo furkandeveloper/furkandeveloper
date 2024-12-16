@@ -43,6 +43,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Track Entity Changes With EF Core | Audit Logging | AuditSharp](https://furkan-dvlp.medium.com/how-to-track-entity-changes-with-ef-core-audit-logging-auditsharp-4d84d70ef55c?source=rss-b7df331a97d0------2)
 - [Generating Unique IDs with Twitter Snowflake Approach](https://furkan-dvlp.medium.com/generating-unique-ids-with-twitter-snowflake-approach-752efa633826?source=rss-b7df331a97d0------2)
 - [Humanizer in .Net](https://furkan-dvlp.medium.com/humanizer-in-net-780073e11050?source=rss-b7df331a97d0------2)
 - [Go ile Kubernetes Remote Debugging](https://furkan-dvlp.medium.com/go-ile-kubernetes-remote-debugging-4e1f6b47ad5d?source=rss-b7df331a97d0------2)
@@ -50,7 +51,6 @@
 - [Fast Enum in .Net](https://furkan-dvlp.medium.com/fast-enum-in-net-0a08d51b4dbc?source=rss-b7df331a97d0------2)
 - [EasyRepository.EFCore: Entity Framework Core için Kolay ve Esnek Repository Pattern Uygulaması](https://furkan-dvlp.medium.com/easyrepository-efcore-entity-framework-core-i%C3%A7in-kolay-ve-esnek-repository-pattern-uygulamas%C4%B1-5d60bf20942f?source=rss-b7df331a97d0------2)
 - [Comparing Keyset Pagination and Offset Pagination in C#: Performance and Functionality](https://medium.com/devopsturkiye/comparing-keyset-pagination-and-offset-pagination-in-c-performance-and-functionality-ed2face83e3b?source=rss-b7df331a97d0------2)
-- [Sıfırdan Bire-Startuplar Üzerine Notlar](https://furkan-dvlp.medium.com/s%C4%B1f%C4%B1rdan-bire-startuplar-%C3%BCzerine-notlar-c499c3863c83?source=rss-b7df331a97d0------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### :zap: Recent Activity
