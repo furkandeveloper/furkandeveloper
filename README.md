@@ -10,7 +10,6 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 Shopiroller [Shopiroller](https://www.shopiroller.com/en/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/furkandeveloper?tab=repositories](https://github.com/furkandeveloper?tab=repositories)
 
@@ -36,6 +35,8 @@
 | `EasyTokenGenerator` | `This repo aims to dynamically and simply generate tokens in Token Based systems.` | ![GitHub Repo stars](https://img.shields.io/github/stars/furkandeveloper/EasyTokenGenerator?style=social) |
 | `EntityFrameworkCore.DataEncryption` | `This package is a plugin that adds data encryption support to EF Core. ` | ![GitHub Repo stars](https://img.shields.io/github/stars/furkandeveloper/EntityFrameworkCore.DataEncryption?style=social) |
 | `SlugSharp` | `This repository provides slug generator helper for dotnet ` | ![GitHub Repo stars](https://img.shields.io/github/stars/furkandeveloper/SlugSharp?style=social) |
+| `AuditSharp` | `This repository provides audit log for dotnet ` | ![GitHub Repo stars](https://img.shields.io/github/stars/furkandeveloper/AuditSharp?style=social) |
+
 
 
   
