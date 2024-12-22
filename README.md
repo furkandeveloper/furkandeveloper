@@ -57,14 +57,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.0.0](https://github.com/furkandeveloper/EasyCronJob/releases/tag/v3.0.0) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
-2. 🎉 Merged PR [#53](https://github.com/furkandeveloper/EasyCronJob/pull/53) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
-3. 🔒 Closed issue [#22](https://github.com/furkandeveloper/EasyCronJob/issues/22) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
-4. 🎉 Merged PR [#52](https://github.com/furkandeveloper/EasyCronJob/pull/52) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
-5. 🗣 Commented on [#21](https://github.com/furkandeveloper/EasyRepository.EFCore/issues/21) in [furkandeveloper/EasyRepository.EFCore](https://github.com/furkandeveloper/EasyRepository.EFCore)
-6. 🗣 Commented on [#19](https://github.com/furkandeveloper/EasyRepository.EFCore/issues/19) in [furkandeveloper/EasyRepository.EFCore](https://github.com/furkandeveloper/EasyRepository.EFCore)
-7. 🗣 Commented on [#20](https://github.com/furkandeveloper/EasyRepository.EFCore/issues/20) in [furkandeveloper/EasyRepository.EFCore](https://github.com/furkandeveloper/EasyRepository.EFCore)
-8. 🗣 Commented on [#16](https://github.com/furkandeveloper/EasyRepository.EFCore/issues/16) in [furkandeveloper/EasyRepository.EFCore](https://github.com/furkandeveloper/EasyRepository.EFCore)
+1. 🗣 Commented on [#3](https://github.com/furkandeveloper/AuditSharp/pull/3#issuecomment-2558422421) in [furkandeveloper/AuditSharp](https://github.com/furkandeveloper/AuditSharp)
+2. 🗣 Commented on [#4](https://github.com/furkandeveloper/AuditSharp/pull/4#issuecomment-2558422259) in [furkandeveloper/AuditSharp](https://github.com/furkandeveloper/AuditSharp)
+3. 🗣 Commented on [#2](https://github.com/furkandeveloper/AuditSharp/pull/2#issuecomment-2558421574) in [furkandeveloper/AuditSharp](https://github.com/furkandeveloper/AuditSharp)
+4. 🎉 Merged PR [#2](https://github.com/furkandeveloper/AuditSharp/pull/2) in [furkandeveloper/AuditSharp](https://github.com/furkandeveloper/AuditSharp)
+5. 🚀 Published release [v3.0.0](https://github.com/furkandeveloper/EasyCronJob/releases/tag/v3.0.0) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
+6. 🎉 Merged PR [#53](https://github.com/furkandeveloper/EasyCronJob/pull/53) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
+7. 🔒 Closed issue [#22](https://github.com/furkandeveloper/EasyCronJob/issues/22) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
+8. 🎉 Merged PR [#52](https://github.com/furkandeveloper/EasyCronJob/pull/52) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
 9. ❗️ Closed issue [#20](https://github.com/furkandeveloper/EasyRepository.EFCore/issues/20) in [furkandeveloper/EasyRepository.EFCore](https://github.com/furkandeveloper/EasyRepository.EFCore)
 10. 🗣 Commented on [#20](https://github.com/furkandeveloper/EasyRepository.EFCore/issues/20) in [furkandeveloper/EasyRepository.EFCore](https://github.com/furkandeveloper/EasyRepository.EFCore)
 <!--END_SECTION:activity-->
