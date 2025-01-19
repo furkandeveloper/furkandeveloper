@@ -94,9 +94,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furkandeveloper&" alt="furkandeveloper" /></p>
 
-## To see the 2020 summary
-<a href="https://profile.codersrank.io/year-in-review-2020/user/724b3e96db60a7e7fc29229f0728ce93/" target="_top">Summary</a>
-
 
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=jl4vglhzn8cttvmmtdfd0giw9&cover_image=true&theme=default" /></div>
