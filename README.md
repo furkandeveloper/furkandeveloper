@@ -59,16 +59,16 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/furkandeveloper/IdempotentSharp/releases/tag/v1.0.0) in [furkandeveloper/IdempotentSharp](https://github.com/furkandeveloper/IdempotentSharp)
-2. 🗣 Commented on [#5](https://github.com/furkandeveloper/AuditSharp/pull/5#issuecomment-2561947333) in [furkandeveloper/AuditSharp](https://github.com/furkandeveloper/AuditSharp)
-3. 🗣 Commented on [#3](https://github.com/furkandeveloper/AuditSharp/pull/3#issuecomment-2558422421) in [furkandeveloper/AuditSharp](https://github.com/furkandeveloper/AuditSharp)
-4. 🗣 Commented on [#4](https://github.com/furkandeveloper/AuditSharp/pull/4#issuecomment-2558422259) in [furkandeveloper/AuditSharp](https://github.com/furkandeveloper/AuditSharp)
-5. 🗣 Commented on [#2](https://github.com/furkandeveloper/AuditSharp/pull/2#issuecomment-2558421574) in [furkandeveloper/AuditSharp](https://github.com/furkandeveloper/AuditSharp)
-6. 🎉 Merged PR [#2](https://github.com/furkandeveloper/AuditSharp/pull/2) in [furkandeveloper/AuditSharp](https://github.com/furkandeveloper/AuditSharp)
-7. 🚀 Published release [v3.0.0](https://github.com/furkandeveloper/EasyCronJob/releases/tag/v3.0.0) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
-8. 🎉 Merged PR [#53](https://github.com/furkandeveloper/EasyCronJob/pull/53) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
-9. 🔒 Closed issue [#22](https://github.com/furkandeveloper/EasyCronJob/issues/22) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
-10. 🎉 Merged PR [#52](https://github.com/furkandeveloper/EasyCronJob/pull/52) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
+1. 🚀 Published release [v1.0.0](https://github.com/furkandeveloper/TimerSharp/releases/tag/v1.0.0) in [furkandeveloper/TimerSharp](https://github.com/furkandeveloper/TimerSharp)
+2. 🚀 Published release [v1.0.0](https://github.com/furkandeveloper/IdempotentSharp/releases/tag/v1.0.0) in [furkandeveloper/IdempotentSharp](https://github.com/furkandeveloper/IdempotentSharp)
+3. 🗣 Commented on [#5](https://github.com/furkandeveloper/AuditSharp/pull/5#issuecomment-2561947333) in [furkandeveloper/AuditSharp](https://github.com/furkandeveloper/AuditSharp)
+4. 🗣 Commented on [#3](https://github.com/furkandeveloper/AuditSharp/pull/3#issuecomment-2558422421) in [furkandeveloper/AuditSharp](https://github.com/furkandeveloper/AuditSharp)
+5. 🗣 Commented on [#4](https://github.com/furkandeveloper/AuditSharp/pull/4#issuecomment-2558422259) in [furkandeveloper/AuditSharp](https://github.com/furkandeveloper/AuditSharp)
+6. 🗣 Commented on [#2](https://github.com/furkandeveloper/AuditSharp/pull/2#issuecomment-2558421574) in [furkandeveloper/AuditSharp](https://github.com/furkandeveloper/AuditSharp)
+7. 🎉 Merged PR [#2](https://github.com/furkandeveloper/AuditSharp/pull/2) in [furkandeveloper/AuditSharp](https://github.com/furkandeveloper/AuditSharp)
+8. 🚀 Published release [v3.0.0](https://github.com/furkandeveloper/EasyCronJob/releases/tag/v3.0.0) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
+9. 🎉 Merged PR [#53](https://github.com/furkandeveloper/EasyCronJob/pull/53) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
+10. 🔒 Closed issue [#22](https://github.com/furkandeveloper/EasyCronJob/issues/22) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
 <!--END_SECTION:activity-->
 
 <hr/>
