@@ -36,6 +36,7 @@
 | `EntityFrameworkCore.DataEncryption` | `This package is a plugin that adds data encryption support to EF Core. ` | ![GitHub Repo stars](https://img.shields.io/github/stars/furkandeveloper/EntityFrameworkCore.DataEncryption?style=social) |
 | `SlugSharp` | `This repository provides slug generator helper for dotnet ` | ![GitHub Repo stars](https://img.shields.io/github/stars/furkandeveloper/SlugSharp?style=social) |
 | `AuditSharp` | `This repository provides audit log for dotnet ` | ![GitHub Repo stars](https://img.shields.io/github/stars/furkandeveloper/AuditSharp?style=social) |
+| `TimerSharp` | `This repo, provides This library calculates how long your methods take to execute. ` | ![GitHub Repo stars](https://img.shields.io/github/stars/furkandeveloper/TimerSharp?style=social) |
 
 
 
