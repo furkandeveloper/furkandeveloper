@@ -47,6 +47,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Aspect Injector in .Net](https://furkan-dvlp.medium.com/aspect-injector-in-net-9293b176503a?source=rss-b7df331a97d0------2)
 - [.Net 9 Hybrid Cache ile Idempotent Rest Api](https://furkan-dvlp.medium.com/net-9-hybrid-cache-ile-idempotent-rest-api-27226c870853?source=rss-b7df331a97d0------2)
 - [Immutable vs Frozen vs Readonly Collections in .Net](https://furkan-dvlp.medium.com/immutable-vs-frozen-vs-readonly-collections-in-net-e3531c15ff5c?source=rss-b7df331a97d0------2)
 - [EF Core Compiled Query ve Performans Etkisi](https://furkan-dvlp.medium.com/ef-core-compiled-query-ve-performans-etkisi-d832e47e50fc?source=rss-b7df331a97d0------2)
@@ -54,7 +55,6 @@
 - [How To Track Entity Changes With EF Core | Audit Logging | AuditSharp](https://furkan-dvlp.medium.com/how-to-track-entity-changes-with-ef-core-audit-logging-auditsharp-4d84d70ef55c?source=rss-b7df331a97d0------2)
 - [Generating Unique IDs with Twitter Snowflake Approach](https://furkan-dvlp.medium.com/generating-unique-ids-with-twitter-snowflake-approach-752efa633826?source=rss-b7df331a97d0------2)
 - [Humanizer in .Net](https://furkan-dvlp.medium.com/humanizer-in-net-780073e11050?source=rss-b7df331a97d0------2)
-- [Go ile Kubernetes Remote Debugging](https://furkan-dvlp.medium.com/go-ile-kubernetes-remote-debugging-4e1f6b47ad5d?source=rss-b7df331a97d0------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### :zap: Recent Activity
