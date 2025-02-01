@@ -61,10 +61,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/furkandeveloper/idempotency-middleware/releases/tag/v1.0.0) in [furkandeveloper/idempotency-middleware](https://github.com/furkandeveloper/idempotency-middleware)
-2. 🚀 Published release [v1.0.0](https://github.com/furkandeveloper/TimerSharp/releases/tag/v1.0.0) in [furkandeveloper/TimerSharp](https://github.com/furkandeveloper/TimerSharp)
-3. 🚀 Published release [v1.0.0](https://github.com/furkandeveloper/IdempotentSharp/releases/tag/v1.0.0) in [furkandeveloper/IdempotentSharp](https://github.com/furkandeveloper/IdempotentSharp)
-4. 🗣 Commented on [#5](https://github.com/furkandeveloper/AuditSharp/pull/5#issuecomment-2561947333) in [furkandeveloper/AuditSharp](https://github.com/furkandeveloper/AuditSharp)
+1. 🚀 Published release [v1.0.0](https://github.com/furkandeveloper/FluentOptionValidation/releases/tag/v1.0.0) in [furkandeveloper/FluentOptionValidation](https://github.com/furkandeveloper/FluentOptionValidation)
+2. 🚀 Published release [v1.0.0](https://github.com/furkandeveloper/idempotency-middleware/releases/tag/v1.0.0) in [furkandeveloper/idempotency-middleware](https://github.com/furkandeveloper/idempotency-middleware)
+3. 🚀 Published release [v1.0.0](https://github.com/furkandeveloper/TimerSharp/releases/tag/v1.0.0) in [furkandeveloper/TimerSharp](https://github.com/furkandeveloper/TimerSharp)
+4. 🚀 Published release [v1.0.0](https://github.com/furkandeveloper/IdempotentSharp/releases/tag/v1.0.0) in [furkandeveloper/IdempotentSharp](https://github.com/furkandeveloper/IdempotentSharp)
 5. 🗣 Commented on [#3](https://github.com/furkandeveloper/AuditSharp/pull/3#issuecomment-2558422421) in [furkandeveloper/AuditSharp](https://github.com/furkandeveloper/AuditSharp)
 6. 🗣 Commented on [#4](https://github.com/furkandeveloper/AuditSharp/pull/4#issuecomment-2558422259) in [furkandeveloper/AuditSharp](https://github.com/furkandeveloper/AuditSharp)
 7. 🗣 Commented on [#2](https://github.com/furkandeveloper/AuditSharp/pull/2#issuecomment-2558421574) in [furkandeveloper/AuditSharp](https://github.com/furkandeveloper/AuditSharp)
