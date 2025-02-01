@@ -20,7 +20,7 @@
 - 📫 How to reach me **furkan.dvlp@gmail.com**
 
 
-### Projects
+### Libraries
 
 
 | Name | Description     | Stars                |
@@ -39,6 +39,7 @@
 | `TimerSharp` | `This repo, provides This library calculates how long your methods take to execute. ` | ![GitHub Repo stars](https://img.shields.io/github/stars/furkandeveloper/TimerSharp?style=social) |
 | `IdempotentSharp` | `IdempotentSharp allows you to develop idempotent endpoints. ` | ![GitHub Repo stars](https://img.shields.io/github/stars/furkandeveloper/IdempotentSharp?style=social) |
 | `idempotency-middleware` | `The idempotency-middleware library adds idempotency support to your Go API projects. It ensures that a client request is processed only once, regardless of how many times it is received. This middleware is especially useful for handling retry logic in distributed systems. ` | ![GitHub Repo stars](https://img.shields.io/github/stars/furkandeveloper/idempotency-middleware?style=social) |
+| `FluentOptionValidation` | `Option Pattern Validation with Fluent Validation ` | ![GitHub Repo stars](https://img.shields.io/github/stars/furkandeveloper/FluentOptionValidation?style=social) |
 
 
 
