@@ -48,6 +48,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Deep Dive to HttpClient](https://furkan-dvlp.medium.com/deep-dive-httpclient-3e1c6f0a27a9?source=rss-b7df331a97d0------2)
 - [.Net’te Option Pattern ve Validation](https://furkan-dvlp.medium.com/nette-option-pattern-ve-validation-4d19ba23b2d4?source=rss-b7df331a97d0------2)
 - [.Net 9 ile Scalar &lpar;Swagger UI &rpar;](https://furkan-dvlp.medium.com/net-9-ile-scalar-swagger-ui-5513a15e4186?source=rss-b7df331a97d0------2)
 - [Aspect Injector in .Net](https://furkan-dvlp.medium.com/aspect-injector-in-net-9293b176503a?source=rss-b7df331a97d0------2)
@@ -55,7 +56,6 @@
 - [Immutable vs Frozen vs Readonly Collections in .Net](https://furkan-dvlp.medium.com/immutable-vs-frozen-vs-readonly-collections-in-net-e3531c15ff5c?source=rss-b7df331a97d0------2)
 - [EF Core Compiled Query ve Performans Etkisi](https://furkan-dvlp.medium.com/ef-core-compiled-query-ve-performans-etkisi-d832e47e50fc?source=rss-b7df331a97d0------2)
 - [Rate Limiter Algoritmaları](https://furkan-dvlp.medium.com/rate-limiter-algoritmalar%C4%B1-f0ad2d0f84aa?source=rss-b7df331a97d0------2)
-- [How To Track Entity Changes With EF Core | Audit Logging | AuditSharp](https://furkan-dvlp.medium.com/how-to-track-entity-changes-with-ef-core-audit-logging-auditsharp-4d84d70ef55c?source=rss-b7df331a97d0------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### :zap: Recent Activity
