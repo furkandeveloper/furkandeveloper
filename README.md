@@ -48,6 +48,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Back of the Envelope Estimation](https://furkan-dvlp.medium.com/back-of-the-envelope-estimation-fba38254e3a8?source=rss-b7df331a97d0------2)
 - [Redis Pub/Sub in .Net](https://furkan-dvlp.medium.com/redis-pub-sub-in-net-6297c440c086?source=rss-b7df331a97d0------2)
 - [Deep Dive to Delegating Handlers](https://furkan-dvlp.medium.com/deep-dive-to-delegating-handlers-6cbea8a6b088?source=rss-b7df331a97d0------2)
 - [Deep Dive to http.RoundTripper](https://furkan-dvlp.medium.com/deep-dive-to-http-roundtripper-6b2e25cd1afa?source=rss-b7df331a97d0------2)
@@ -55,7 +56,6 @@
 - [.Net’te Option Pattern ve Validation](https://furkan-dvlp.medium.com/nette-option-pattern-ve-validation-4d19ba23b2d4?source=rss-b7df331a97d0------2)
 - [.Net 9 ile Scalar &lpar;Swagger UI &rpar;](https://furkan-dvlp.medium.com/net-9-ile-scalar-swagger-ui-5513a15e4186?source=rss-b7df331a97d0------2)
 - [Aspect Injector in .Net](https://furkan-dvlp.medium.com/aspect-injector-in-net-9293b176503a?source=rss-b7df331a97d0------2)
-- [.Net 9 Hybrid Cache ile Idempotent Rest Api](https://furkan-dvlp.medium.com/net-9-hybrid-cache-ile-idempotent-rest-api-27226c870853?source=rss-b7df331a97d0------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### :zap: Recent Activity
