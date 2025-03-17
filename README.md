@@ -48,6 +48,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Function Based Filtering in Go&lpar;slice and generic&rpar;](https://furkan-dvlp.medium.com/function-based-filtering-in-go-slice-and-generic-b296c236a13a?source=rss-b7df331a97d0------2)
 - [Back of the Envelope Estimation](https://furkan-dvlp.medium.com/back-of-the-envelope-estimation-fba38254e3a8?source=rss-b7df331a97d0------2)
 - [Redis Pub/Sub in .Net](https://furkan-dvlp.medium.com/redis-pub-sub-in-net-6297c440c086?source=rss-b7df331a97d0------2)
 - [Deep Dive to Delegating Handlers](https://furkan-dvlp.medium.com/deep-dive-to-delegating-handlers-6cbea8a6b088?source=rss-b7df331a97d0------2)
@@ -55,7 +56,6 @@
 - [Deep Dive to HttpClient](https://furkan-dvlp.medium.com/deep-dive-httpclient-3e1c6f0a27a9?source=rss-b7df331a97d0------2)
 - [.Net’te Option Pattern ve Validation](https://furkan-dvlp.medium.com/nette-option-pattern-ve-validation-4d19ba23b2d4?source=rss-b7df331a97d0------2)
 - [.Net 9 ile Scalar &lpar;Swagger UI &rpar;](https://furkan-dvlp.medium.com/net-9-ile-scalar-swagger-ui-5513a15e4186?source=rss-b7df331a97d0------2)
-- [Aspect Injector in .Net](https://furkan-dvlp.medium.com/aspect-injector-in-net-9293b176503a?source=rss-b7df331a97d0------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### :zap: Recent Activity
