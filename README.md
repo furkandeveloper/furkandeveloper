@@ -48,6 +48,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Go Uygulamalarında Optimizasyon Önerileri #1 &lpar;sync.Pool&rpar;](https://furkan-dvlp.medium.com/go-uygulamalar%C4%B1nda-optimizasyon-%C3%B6nerileri-1-sync-pool-f49a8f1addab?source=rss-b7df331a97d0------2)
 - [Configurable and Extensible Data Validation in Go](https://furkan-dvlp.medium.com/configurable-and-extensible-data-validation-in-go-35ca2a2ebdfa?source=rss-b7df331a97d0------2)
 - [Function Based Filtering in Go&lpar;slice and generic&rpar;](https://furkan-dvlp.medium.com/function-based-filtering-in-go-slice-and-generic-b296c236a13a?source=rss-b7df331a97d0------2)
 - [Back of the Envelope Estimation](https://furkan-dvlp.medium.com/back-of-the-envelope-estimation-fba38254e3a8?source=rss-b7df331a97d0------2)
@@ -55,7 +56,6 @@
 - [Deep Dive to Delegating Handlers](https://furkan-dvlp.medium.com/deep-dive-to-delegating-handlers-6cbea8a6b088?source=rss-b7df331a97d0------2)
 - [Deep Dive to http.RoundTripper](https://furkan-dvlp.medium.com/deep-dive-to-http-roundtripper-6b2e25cd1afa?source=rss-b7df331a97d0------2)
 - [Deep Dive to HttpClient](https://furkan-dvlp.medium.com/deep-dive-httpclient-3e1c6f0a27a9?source=rss-b7df331a97d0------2)
-- [.Net’te Option Pattern ve Validation](https://furkan-dvlp.medium.com/nette-option-pattern-ve-validation-4d19ba23b2d4?source=rss-b7df331a97d0------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### :zap: Recent Activity
