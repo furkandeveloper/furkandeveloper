@@ -61,7 +61,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/furkandeveloper/EasyTokenGenerator/pull/11) in [furkandeveloper/EasyTokenGenerator](https://github.com/furkandeveloper/EasyTokenGenerator)
+1. 💪 Opened PR [#1](https://github.com/furkandeveloper/go-linq/pull/1) in [furkandeveloper/go-linq](https://github.com/furkandeveloper/go-linq)
 2. 🚀 Published release [v1.0.0](https://github.com/furkandeveloper/idempotency-middleware/releases/tag/v1.0.0) in [furkandeveloper/idempotency-middleware](https://github.com/furkandeveloper/idempotency-middleware)
 3. 🚀 Published release [v1.0.0](https://github.com/furkandeveloper/TimerSharp/releases/tag/v1.0.0) in [furkandeveloper/TimerSharp](https://github.com/furkandeveloper/TimerSharp)
 4. 🚀 Published release [v1.0.0](https://github.com/furkandeveloper/IdempotentSharp/releases/tag/v1.0.0) in [furkandeveloper/IdempotentSharp](https://github.com/furkandeveloper/IdempotentSharp)
