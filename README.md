@@ -61,8 +61,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/furkandeveloper/go-linq/pull/1) in [furkandeveloper/go-linq](https://github.com/furkandeveloper/go-linq)
-2. 🚀 Published release [v1.0.0](https://github.com/furkandeveloper/idempotency-middleware/releases/tag/v1.0.0) in [furkandeveloper/idempotency-middleware](https://github.com/furkandeveloper/idempotency-middleware)
+1. 🎉 Merged PR [#1](https://github.com/furkandeveloper/feature-lens/pull/1) in [furkandeveloper/feature-lens](https://github.com/furkandeveloper/feature-lens)
+2. 💪 Opened PR [#1](https://github.com/furkandeveloper/feature-lens/pull/1) in [furkandeveloper/feature-lens](https://github.com/furkandeveloper/feature-lens)
 3. 🚀 Published release [v1.0.0](https://github.com/furkandeveloper/TimerSharp/releases/tag/v1.0.0) in [furkandeveloper/TimerSharp](https://github.com/furkandeveloper/TimerSharp)
 4. 🚀 Published release [v1.0.0](https://github.com/furkandeveloper/IdempotentSharp/releases/tag/v1.0.0) in [furkandeveloper/IdempotentSharp](https://github.com/furkandeveloper/IdempotentSharp)
 5. 🗣 Commented on [#3](https://github.com/furkandeveloper/AuditSharp/pull/3#issuecomment-2558422421) in [furkandeveloper/AuditSharp](https://github.com/furkandeveloper/AuditSharp)
